@@ -1,3 +1,3 @@
 import React from "react";
 
-export default React.Component('english');
+export default React.Component('dutch');
